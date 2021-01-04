@@ -1,7 +1,5 @@
 # Cartoonize LinkedIn Photo
 
-## 1. Introduction
-
 In our post [Fun With Numpy](https://crawstat.com/2020/10/09/fun-with-numpy-image-processing/) from a few months ago, we loaded a color photo, converted it to a 3D pixel array, and edited it simply using numpy. 
 
 I recently came across a post on [cartoonizing a photo](https://towardsdatascience.com/turn-photos-into-cartoons-using-python-bb1a9f578a7e) with python using cv2 and numpy and tried it out to cartoonize my LinkedIn profile photo. It follows two core principles underlying a cartoon:
